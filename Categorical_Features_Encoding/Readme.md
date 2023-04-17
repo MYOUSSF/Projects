@@ -1,1 +1,1 @@
-The goal of this project is to explore the applications of binary neural networks in classification problems with categorical features only
+The goal of this project is to explore the potential of binary neural networks in classification problems with categorical features only. 
